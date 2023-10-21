@@ -1,0 +1,10 @@
+.card:hover{
+    background-color: white;
+    color: black;
+    border-color: #007BFF;
+}
+
+.card{
+    background-color: #007BFF;
+    color: white;
+}
